@@ -1,0 +1,349 @@
+* {
+    margin: 0 auto; 
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face { 
+    font-family: "BasisGrotesqueProLight";
+    src: url("./fonts/BasisGrotesqueProLight/BasisGrotesqueProLight.eot");
+    src: url("./fonts/BasisGrotesqueProLight/BasisGrotesqueProLight.eot?#iefix")format("embedded-opentype"),
+    url("./fonts/BasisGrotesqueProLight/BasisGrotesqueProLight.woff") format("woff"),
+    url("./fonts/BasisGrotesqueProLight/BasisGrotesqueProLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+#Block1 {
+    height: 86px;
+    max-width: 1440px;
+}
+.var1 {
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+#Block2 {
+    width: 1440px;
+    height: 747px;
+    background: url(assets/Rectangle.jpg) no-repeat;
+    background-size: cover; 
+}
+.wrap1 {
+    width: 100%;
+    max-width: 1440px;
+}
+.Rocks {
+    background: url(assets/Rocks.png) no-repeat;
+    width: 1440px;
+    height: 747px;
+}
+.shop {
+    background-color: #000000;
+    border: none;
+    color: #ffffff;
+    padding: 50px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+.shop:hover {
+    background-color: #BEC0E9;;
+    }
+.shop1 {
+    padding-left: 1200px;
+    padding-top: 25px;
+}
+.var2 {
+    position: relative;
+    font-family: 'Gideon Roman', cursive;
+    font-style: normal;
+    font-weight: normal;
+    height: 120px;
+    font-size: 118px;
+    line-height: 120px;
+    padding-top: 168px;
+    text-align: center;
+    color: #000000;
+}
+#Block3 {
+    height: 86px;
+    max-width: 1440px;
+}
+#Block4 {
+    height: 900px;
+    max-width: 1440px;
+    background: linear-gradient(241.95deg, #FFFFFF 0.5%, rgba(255, 255, 255, 0) 80.8%), rgba(234, 193, 191, 0.64);
+    border-radius: 0px;
+}
+.Rect {
+    position: absolute;
+    width: 570px;
+    height: 588px;
+    padding-left: 600px;
+    padding-top: 50px;
+}
+.Rec {
+    position: relative;
+    padding-left: 800px;
+    padding-top: 85px; 
+}
+p {
+    height: 556px;
+    width: 468px;
+    font-family: 'Gideon Roman', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 68px;
+    color: #000000
+}
+.p {
+    position: absolute;
+    padding-left: 150px;
+    padding-top: 106px;
+}
+.button {
+    background-color: #000000;
+    border: none;
+    color: #ffffff;
+    padding: 12px 56px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 100px;
+}
+.button:hover {
+    background-color: #e9becc;
+}
+#Block5 {
+    max-height: 840px;
+    max-width: 1440px;
+}
+.crystals1 {
+    background: url(./assets/crystals1.png) no-repeat;
+    height: 609px;
+    width: 581px;
+    margin: 194px 145px;
+    position: relative;
+    padding-left: 152px;
+    padding-top: 529px;
+}
+.button1 {
+    background-color: #ffffff;
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    border: none;
+    color: #000000;
+    padding: 12px 56px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 100px;
+}
+.button1:hover {
+    background-color: #e9becc;
+}
+h4 {
+    background-color: #ffffff;
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    border: none;
+    text-align: center; 
+    padding-top: 25px;
+}
+.h4 {
+    max-width: 472px;
+    position: relative;
+    padding: 12px 56px;
+}
+.table {
+    width: 100%;
+}
+.td {
+    height: 900px;
+}
+#Block6 {
+    height: 700px;
+    max-width: 1440px;
+}
+.Rectangle {
+    background: url(./assets/Rectangle.png) no-repeat;
+    position: absolute;
+    height: 652px;
+    width: 659px;
+    margin: -300px 642px;
+}
+.F {
+    position: relative;
+}
+.table1 {
+    width: 100%;
+    margin: 300px 45px;
+}
+.h44 {
+    font-size: 16px;
+    border: none;
+    padding-bottom: 20px;
+    text-align: left; 
+    padding-left: 70px;
+}
+.button2 {
+    background: rgb(190,192,233);
+    background: linear-gradient(90deg, rgba(190,192,233,1) 0%, rgba(245,170,252,1) 35%, rgba(254,229,161,1) 84%); 
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    border: none;
+    color: #000000;
+    padding: 12px 56px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 40px 70px;
+    border-radius: 100px;
+}
+.button2:hover {
+    background-color: #e9becc;
+}
+#Block7 {
+    height: 599px;
+    max-width: 1440px;
+    background: #FBF9F9;
+}
+h2 {
+    position: relative;
+    font-family: 'Gideon Roman', cursive;
+    font-style: normal;
+    font-weight: normal;
+    height: 120px;
+    font-size: 47px;
+    line-height: 120px;
+    padding-top: 88px;
+    text-align: center;
+    color: #000000;
+}
+.Rle {
+    background: url(./assets/Rle.png) no-repeat;
+    position: absolute;
+    height: 210px;
+    width: 210px;
+    margin: 152px 56px;
+}
+.Fra {
+    position: relative;
+    margin: 192px 66px;
+}
+#Block8 {
+    height: 922px;
+    max-width: 1440px;
+}
+h3 {
+    position: relative;
+    font-family: 'Gideon Roman', cursive;
+    font-style: normal;
+    font-weight: normal;
+    height: 120px;
+    font-size: 116px;
+    line-height: 120px;
+    padding-top: 130px;
+    text-align: center;
+    color: #000000;
+}
+.table2 {
+    width: 95%;
+    margin: 220px 45px;
+}
+#Block9 {
+    height: 424px;
+    max-width: 1440px;
+    background: linear-gradient(270deg, #FFFFFF 45.52%, rgba(255, 255, 255, 0.58) 100%), #EAC1BF;
+    border-radius: 0px;
+}
+h5 {
+    position: relative;
+    font-family: 'Gideon Roman', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+.h5 {
+    padding-left: 85px;
+    padding-top: 71px;
+}
+h6 {
+    height: 72px;
+    width: 300px;
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.h6 {
+    padding-top: 24px;
+    padding-left: 45px;
+}
+.button3 {
+    background-color: #000000;
+    border: none;
+    color: #ffffff;
+    padding: 12px 46px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 60px 85px;
+    border-radius: 100px;
+}
+.button3:hover {
+    background-color: #e9becc;
+}
+.Fme {
+    max-width: 955px;
+}
+#Block10 {
+    height: 766px;
+    max-width: 1440px;
+}
+.p2 {
+    height: 216px;
+    width: 715px;
+    font-family: 'Gideon Roman', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 68px;
+    color: #000000
+}
+.h66 {
+    padding-top: 24px;
+    height: 60px;
+}
+.a33 {
+    padding-bottom: 44px;
+}
+.table3 {
+    width: 100%;
+    padding-top: 35px;
+}
+#Block11 {
+    height: 766px;
+    max-width: 1440px;
+}
